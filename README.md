@@ -1,8 +1,7 @@
-### Hi there 👋
----
+## Hi there 👋
 
 
-### Data Analytics & Science Projects
+## Data Analytics & Science Projects
 * [New Categorization](https://github.com/jenniferchiutw/predictive_analytics/tree/main/hw3)
   * Categorize 24 news articles into three distinct categories, using NLP techniques
 * [Student Height Prediction](https://github.com/jenniferchiutw/java_projects/tree/main/height_prediction)
