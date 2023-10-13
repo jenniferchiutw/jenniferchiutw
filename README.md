@@ -1,5 +1,5 @@
 ## Hi there 👋
-* 🏫 New York Unversity M.S. in Information Systems!
+* 🏫 I am a graduate student at New York Unversity M.S. in Information Systems (Stern & Courant)!
 * ❤️‍🔥 I’m interested in data analytics, visualization, and consumer/user behavior.
 * 🔍 I’m currently looking for Data Analyst or Business Analyst job. 
 * 🌱 I’m currently learning building business optimization and machine learning models.
