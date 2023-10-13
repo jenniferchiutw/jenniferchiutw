@@ -4,7 +4,7 @@
 
 ### Data Analytics & Science Projects
 * [New Categorization](https://github.com/jenniferchiutw/predictive_analytics/tree/main/hw3)
-  *123   
+  * 123   
 
 
 
