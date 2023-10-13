@@ -1,12 +1,25 @@
 ## Hi there 👋
+* 🏫 New York Unversity M.S. in Information Systems!
+* ❤️‍🔥 I’m interested in data analytics & visualization. Seeking opportunities to transform user/consumer behavior into actionable business plan!
+* 🔍 I’m currently looking for Data Analyst or Business Analyst job.
+* 🌱 I’m currently learning building business optimization and machine learning models.
+* 📫 How to reach me: https://www.linkedin.com/in/jennifer-kuan-hsuan-chiu/
 
-
-## Data Analytics & Science Projects
+## Data Analytics Projects 🪄
 * [New Categorization](https://github.com/jenniferchiutw/predictive_analytics/tree/main/hw3)
-  * Categorize 24 news articles into three distinct categories, using NLP techniques
+  * NLP
+  * Categorize 24 news articles into three distinct categories
 * [Student Height Prediction](https://github.com/jenniferchiutw/java_projects/tree/main/height_prediction)
-  * Built regression model using 1000+ dataset to predict students’ height.
+  * Regression Model
+  * Predict students’ height in the future
 
+## Skills 🔧
+* Python
+* Java
+* MySQL
+* Tableau
+* Excel
+* Machine Learning
 
 
 <!--
