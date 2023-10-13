@@ -1,7 +1,7 @@
 ## Hi there 👋
 * 🏫 New York Unversity M.S. in Information Systems!
-* ❤️‍🔥 I’m interested in data analytics & visualization. Seeking opportunities to transform user/consumer behavior into actionable business plan!
-* 🔍 I’m currently looking for Data Analyst or Business Analyst job.
+* ❤️‍🔥 I’m interested in data analytics, visualization, and consumer/user behavior.
+* 🔍 I’m currently looking for Data Analyst or Business Analyst job. 
 * 🌱 I’m currently learning building business optimization and machine learning models.
 * 📫 How to reach me: https://www.linkedin.com/in/jennifer-kuan-hsuan-chiu/
 
