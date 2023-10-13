@@ -1,4 +1,12 @@
 ### Hi there 👋
+--
+
+
+### Data Analytics & Science Projects
+* [New Categorization](https://github.com/jenniferchiutw/predictive_analytics/tree/main/hw3)
+  *123   
+
+
 
 <!--
 **jenniferchiutw/jenniferchiutw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
