@@ -1,8 +1,8 @@
 ## Hi there 👋
 * 🏫 I am a graduate student at New York Unversity M.S. in Information Systems (Stern & Courant)!
 * ❤️‍🔥 I’m interested in data analytics, visualization, and consumer/user behavior.
-* 🔍 I’m currently looking for Data Analyst or Business Analyst job. 
-* 🌱 I’m currently learning building business optimization and machine learning models.
+* 🔍 I’m currently seeking Data Analyst or Business Analyst job. 
+* 🌱 I’m currently learning more about building business optimization and machine learning models.
 * 📫 How to reach me: https://www.linkedin.com/in/jennifer-kuan-hsuan-chiu/
 
 ## Data Analytics Projects 🪄
