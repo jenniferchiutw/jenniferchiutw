@@ -6,6 +6,8 @@
 * 📫 How to reach me: https://www.linkedin.com/in/jennifer-kuan-hsuan-chiu/
 
 ## Data Analytics Projects 🪄
+* [CitiBike Operation Analysis](https://public.tableau.com/app/profile/kuan.hsuan.chiu/viz/CitiBikeOperationAnalysis/Dashboard1)
+  * An interactive data visualization dashboard 
 * [New Categorization](https://github.com/jenniferchiutw/predictive_analytics/tree/main/hw3)
   * NLP
   * Categorize 24 news articles into three distinct categories
