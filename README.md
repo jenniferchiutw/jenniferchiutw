@@ -6,7 +6,7 @@
 * 📫 How to reach me: https://www.linkedin.com/in/jennifer-kuan-hsuan-chiu/
 
 ## Data Analytics Projects 🪄
-* [CitiBike Operation Analysis](https://public.tableau.com/app/profile/kuan.hsuan.chiu/viz/CitiBikeOperationAnalysis/Dashboard1)
+* [CitiBike Rental and Weather Relationship Dashboard](https://public.tableau.com/app/profile/kuan.hsuan.chiu/viz/CitiBikeOperationAnalysis/Dashboard1)
   * An interactive data visualization dashboard
   * Analzye the rides trend for citibike
 * [New Categorization](https://github.com/jenniferchiutw/predictive_analytics/tree/main/hw3)
