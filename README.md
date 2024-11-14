@@ -22,7 +22,10 @@
 * MySQL
 * Tableau
 * Excel
+* Hadoop
 * Machine Learning
+* Google Analytics
+* Shopify
 
 
 <!--
