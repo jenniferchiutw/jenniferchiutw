@@ -8,7 +8,7 @@
 ## Data Analytics Projects 🪄
 * [CitiBike Rental and Weather Relationship Dashboard](https://public.tableau.com/app/profile/kuan.hsuan.chiu/viz/CitiBikeOperationAnalysis/Dashboard1)
   * An interactive data visualization dashboard
-  * Analzye the rides trend for citibike
+  * Analyze the rides trend for citibike
 * [New Categorization](https://github.com/jenniferchiutw/predictive_analytics/tree/main/hw3)
   * NLP
   * Categorize 24 news articles into three distinct categories
