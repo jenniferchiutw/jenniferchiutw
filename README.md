@@ -6,6 +6,9 @@
 * 📫 How to reach me: https://www.linkedin.com/in/jennifer-kuan-hsuan-chiu/
 
 ## Data Analytics Projects 🪄
+* [Movie Trend Analysis with Big Data Pipeline](https://drive.google.com/drive/folders/1AoDuKcZDF0TwuWb6Lww0YhCjKRLvk0Rr?dmr=1&ec=wgc-drive-globalnav-goto)
+  * Developed an ETL pipeline to clean 960 MB+ of IMDb and Netflix data sources using Hadoop (HDFS, MapReduce) and queried data with Hive SQL to calculate key metrics
+  * Created a Tableau interactive dashboard to track genre performance over the past 14 years, including ratings, quantity, and popularity across countries, uncovering genre with highest investment potential
 * [CitiBike Rental and Weather Relationship Dashboard](https://public.tableau.com/app/profile/kuan.hsuan.chiu/viz/CitiBikeOperationAnalysis/Dashboard1)
   * An interactive data visualization dashboard
   * Analyze the rides trend for citibike
