@@ -6,7 +6,7 @@
 * 📫 How to reach me: https://www.linkedin.com/in/jennifer-kuan-hsuan-chiu/
 
 ## Data Analytics Projects 🪄
-* [Traffic Aquisition Dashboard with Looker Studio](https://lookerstudio.google.com/reporting/0a221c6f-7374-443d-9a77-0260b58bf2f5)
+* [Traffic Aquisition Dashboard for Google Merch Shop with Looker Studio](https://lookerstudio.google.com/reporting/0a221c6f-7374-443d-9a77-0260b58bf2f5)
   * Developed a marketing performance interactive dashboard for Google Merch Shop using Looker Studio by connecting data from Google Analytics
 * [Movie Trend Analysis with Big Data Pipeline](https://drive.google.com/file/d/1PCSPu8hAKl30GeP7dBi1aXdphMw3uWyx/view?usp=sharing)
   * Developed an ETL data pipeline to clean 960MB+ of IMDb and Netflix data sources using Hadoop (HDFS, MapReduce) and queried data with Hive SQL to calculate key metrics
